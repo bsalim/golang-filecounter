@@ -21,9 +21,14 @@ It demonstrates the use of goroutines for parallel processing and the `time` pac
    ```sh
    git clone <repository-url>
    cd <repository-directory>
+   ```
 
 2. **Build the program:**
-go build -o directory-file-counter
+    ```sh
+    go build -o directory-file-counter
+    ```
 
 3. **Run it**
-./directory-file-counter
+    ```sh
+    ./directory-file-counter
+    ```
